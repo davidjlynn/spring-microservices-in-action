@@ -1,0 +1,30 @@
+[submodule "examples/spmia-chapter1"]
+	path = examples/spmia-chapter1
+	url = git@github.com:carnellj/spmia-chapter1.git
+[submodule "examples/spmia-chapter2"]
+	path = examples/spmia-chapter2
+	url = git@github.com:carnellj/spmia-chapter2.git
+[submodule "examples/spmia-chapter3"]
+	path = examples/spmia-chapter3
+	url = git@github.com:carnellj/spmia-chapter3.git
+[submodule "examples/spmia-chapter4"]
+	path = examples/spmia-chapter4
+	url = git@github.com:carnellj/spmia-chapter4.git
+[submodule "examples/spmia-chapter5"]
+	path = examples/spmia-chapter5
+	url = git@github.com:carnellj/spmia-chapter5.git
+[submodule "examples/spmia-chapter6"]
+	path = examples/spmia-chapter6
+	url = git@github.com:carnellj/spmia-chapter6.git
+[submodule "examples/spmia-chapter7"]
+	path = examples/spmia-chapter7
+	url = git@github.com:carnellj/spmia-chapter7.git
+[submodule "examples/spmia-chapter8"]
+	path = examples/spmia-chapter8
+	url = git@github.com:carnellj/spmia-chapter8.git
+[submodule "examples/spmia-chapter9"]
+	path = examples/spmia-chapter9
+	url = git@github.com:carnellj/spmia-chapter9.git
+[submodule "examples/spmia-chapter10"]
+	path = examples/spmia-chapter10
+	url = git@github.com:carnellj/spmia-chapter10.git
